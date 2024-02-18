@@ -1,11 +1,6 @@
 You can sign in as a "test@test.pl" and "test" password or register own account, change name and avatar, add edit and delete post and add comment to posts other users. You can also searching the name of movie and add it to favlist. 
 By form at the main page you can send me an email to my email adress.
-I try to upload this page here 
 
-
-https://mag-alpha.vercel.app/
-
-but env variables doesnt work
 
 
 ![1](https://github.com/amelangad/magbook/assets/100711006/053371d2-4c33-4a47-9cd9-9b1f4683b097)
